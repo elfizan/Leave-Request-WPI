@@ -1,0 +1,28 @@
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.exe.config
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.dll
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Core.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Core.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.xml
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.csprojResolveAssemblyReference.cache
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.exe.config
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Common.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.dll
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Core.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.Core.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.xml
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.csprojResolveAssemblyReference.cache
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.Common\obj\Debug\LeaveRequestWebAPI.Common.pdb

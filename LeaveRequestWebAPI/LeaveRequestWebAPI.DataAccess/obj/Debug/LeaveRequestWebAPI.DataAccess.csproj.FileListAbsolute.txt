@@ -1,0 +1,49 @@
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe.config
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.exe
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.pdb
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.AddRegencyProvince.resources
+E:\MII\Project Coding\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csproj.GenerateResource.Cache
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe.config
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.dll
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.xml
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csprojResolveAssemblyReference.cache
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.AddRegencyProvince.resources
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addDHPModel.resources
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addModelDV.resources
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csproj.GenerateResource.Cache
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\LeaveRequestWebAPI\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addDateHoliday.resources
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe.config
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.dll
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\LeaveRequestWebAPI.Core.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.xml
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csprojResolveAssemblyReference.cache
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.AddRegencyProvince.resources
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addDHPModel.resources
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addModelDV.resources
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addDateHoliday.resources
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.csproj.GenerateResource.Cache
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.exe
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.pdb
+E:\MII\Bootcamptortois\Backup Project\LeaveRequestWebAPI\LeaveRequestWebAPI.DataAccess\obj\Debug\LeaveRequestWebAPI.DataAccess.Migrations.addModelKasimMode.resources

@@ -1,0 +1,60 @@
+﻿@model LeaveRequestWebAPI.Client.Models.LoginVM
+@{
+    ViewBag.Title = "Login";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    @*@using (Html.BeginForm(FormMethod.Post))*@
+    
+        @*@Html.AntiForgeryToken()
+        @Html.HiddenFor(s => s.ReturnURL)*@
+
+        @*<h1>Login Functionality In MVC</h1>*@
+        <div id="login-div" >
+            @using (Html.BeginForm(FormMethod.Post))
+            {
+            @*@if (TempData["ErrorMSG"] != null)
+            {
+                <label style="color:maroon;"> @TempData["ErrorMSG"] </label>
+                <br /><br />
+            }*@
+            <form>
+                <div class="form-group">
+                    <label for="Username">Username</label>
+                    <input type="text" class="form-control" id="Username" placeholder="Username" />
+                </div>
+                <div class="form-group">
+                    <label for="Password">Password</label>
+                    <input type="password" class="form-control" id="Password" placeholder="Password" />
+                    <span style="color:red" class="error">Valid Name Required</span>
+                    
+                    <input type="checkbox" id="Remember" />
+                    <label>Remember Me</label>
+                    <button type="submit" onclick="GetById();">Submit</button>
+                </div>
+             </form>
+                @*<form>
+                <div class="form-group">
+                    @Html.TextBoxFor(s => s.Username, new { @placeholder = "Username" })
+                    <br /> <br />
+                    @Html.PasswordFor(s => s.Password, new { @placeholder = "Password" })
+                    <br /> <br />
+                    @Html.CheckBoxFor(s => s.isRemember) Remember ME
+                    <br /> <br />
+                    <button type="submit" onclick="" >Login</button>
+                </div>
+            </form>*@
+            }
+        </div>      
+</body>
+</html>
+<script src="~/Scripts/LoginMaster/RetrievingLogin.js"></script>
